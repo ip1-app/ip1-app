@@ -62,11 +62,7 @@ A complete PHP platform to **sell &amp; manage Hetzner Cloud VPS subscriptions**
   <a href="https://github.com/ip1-app"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-## 📊 Activity
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ip1-app/&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
 
 ---
 
