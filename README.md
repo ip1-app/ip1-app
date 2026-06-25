@@ -65,7 +65,7 @@ A complete PHP platform to **sell &amp; manage Hetzner Cloud VPS subscriptions**
 ## 📊 Activity
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=q8ip&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ip1-app/&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
