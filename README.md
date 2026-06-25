@@ -6,10 +6,7 @@
   
 </p>
 
-<p align="center">
-  <a href="https://ip1.app"><img src="https://img.shields.io/badge/Live_Demo-ip1.app-7C5CFF?style=for-the-badge" alt="Live demo" /></a>
-  <img src="https://img.shields.io/badge/Open_Source-AGPL--3.0-2ED573?style=for-the-badge" alt="Open Source" />
-</p>
+
 
 ---
 
