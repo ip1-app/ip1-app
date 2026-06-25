@@ -19,8 +19,9 @@ Everything I ship for the public is open-source and bilingual (English / Arabic,
 
 ## 🚀 Featured Project
 
-### [Hetzner VPS Bot](https://github.com/q8ip/Hetzner-vps-Bot)
+### [Hetzner VPS Bot](https://github.com/ip1-app/Hetzner-vps-Bot)
 A complete PHP platform to **sell &amp; manage Hetzner Cloud VPS subscriptions**.
+**Live demo:** [ip1.app](https://ip1.app/demo) — browse plans, client login, and the full store experience.
 
 | Channel | What it does |
 |---------|--------------|
