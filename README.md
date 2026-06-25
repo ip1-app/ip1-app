@@ -22,7 +22,7 @@ Everything I ship for the public is open-source and bilingual (English / Arabic,
 ### [Hetzner VPS Bot](https://github.com/ip1-app/Hetzner-vps-Bot)
 A complete PHP platform to **sell &amp; manage Hetzner Cloud VPS subscriptions**.
 
-> **Live demo:** [ip1.app](https://ip1.app/demo) — browse plans, client login, and the full store experience.
+> **Live :** [Q8.NZ](https://q8.nz/) — browse plans, client login, and the full store experience.
 
 | Channel | What it does |
 |---------|--------------|
