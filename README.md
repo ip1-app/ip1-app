@@ -70,4 +70,3 @@ A complete PHP platform to **sell &amp; manage Hetzner Cloud VPS subscriptions**
 
 ---
 
-<p align="center"><sub>iP1 · Digital innovation &amp; global solutions · أبني أدوات ومنصات مفتوحة المصدر</sub></p>
