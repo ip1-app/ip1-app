@@ -1,9 +1,9 @@
-<h1 align="center">Q8iP</h1>
+<h1 align="center">iP1</h1>
 
 <p align="center">
   <strong>Building open-source tools &amp; platforms for developers</strong><br>
   PHP · SaaS · VPS automation · Telegram bots · REST APIs<br>
-  <sub>Maintained by Ahmad Alshammari · Kuwait 🇰🇼</sub>
+  
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ A complete PHP platform to **sell &amp; manage Hetzner Cloud VPS subscriptions**
 
 <p align="left">
   <a href="https://ip1.app"><img src="https://img.shields.io/badge/-ip1.app-7C5CFF?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/q8ip"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/ip1-app"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ## 📊 Activity
@@ -73,4 +73,4 @@ A complete PHP platform to **sell &amp; manage Hetzner Cloud VPS subscriptions**
 
 ---
 
-<p align="center"><sub>Q8iP · Digital innovation &amp; global solutions · أبني أدوات ومنصات مفتوحة المصدر</sub></p>
+<p align="center"><sub>iP1 · Digital innovation &amp; global solutions · أبني أدوات ومنصات مفتوحة المصدر</sub></p>
